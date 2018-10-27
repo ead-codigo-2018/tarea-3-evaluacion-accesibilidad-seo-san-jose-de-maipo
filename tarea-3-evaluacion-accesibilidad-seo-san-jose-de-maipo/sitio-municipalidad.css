@@ -1,0 +1,71 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 45%;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+.bajada {
+  font-family: 'Roboto', sans-serif;
+  font-weight: thin;
+  font-size: 16px;
+}
+.nombres {
+  font-family: 'Roboto', sans-serif;
+  font-weight: thin;
+  font-size: 12px;
+  margin-bottom: 50px;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-bottom: 30px;
+  margin-top: 80px;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 40px;
+}
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 40px;
+}
+h5 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: thin;
+  font-size: 13px;
+  line-height: 25px;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.imagen-final {
+  display: block;
+  max-width: 80%;
+  height: auto;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+}
